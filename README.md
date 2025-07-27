@@ -11,7 +11,6 @@
 ## 🧠 Current Focus
 - Industrial automation & control engineering  
 - AI integration in manufacturing systems  
-- Becoming overqualified for entry-level automation roles through projects & learning
 
 ## 🌱 Always Learning
 - Siemens TIA Portal, Ladder Logic  

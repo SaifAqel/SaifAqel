@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Saif
 
-<!--
-**SaifAqel/SaifAqel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Mechanical Engineering student at BME (Budapest), originally from Jordan, with a strong passion for automation, control systems, and smart manufacturing.
 
-Here are some ideas to get you started:
+## 🔧 What I Do
+- Build technical projects that blend engineering with code  
+- Design and simulate systems: PID controllers, thermal processes, fuel cells, and more  
+- Apply Python for automation, analysis, and prototyping  
+- Learning PLCs, SCADA, and industrial protocols
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Current Focus
+- Industrial automation & control engineering  
+- AI integration in manufacturing systems  
+- Becoming overqualified for entry-level automation roles through projects & learning
+
+## 🌱 Always Learning
+- Siemens TIA Portal, Ladder Logic  
+- Python for control, simulation, and data handling  
+- Open-source tools, Git, and software documentation best practices
+
+## 📍 Location
+Based in Budapest 🇭🇺 | From Jordan 🇯🇴
+
+---
+
+📫 Reach out or follow my work — more projects coming soon!

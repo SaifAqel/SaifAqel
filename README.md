@@ -8,7 +8,7 @@
 - Apply Python for automation, analysis, and prototyping  
 - Learning PLCs, SCADA, and industrial protocols
 
-## 🧠 Current Focus
+## 🧠 Focus
 - Industrial automation & control engineering  
 - AI integration in manufacturing systems  
 

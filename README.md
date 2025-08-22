@@ -1,25 +1,32 @@
 # 👋 Hi, I'm Saif
 
-🎓 I'm a Mechanical Engineering student at BME (Budapest), originally from Jordan, with a strong passion for automation, control systems, and smart manufacturing.
+🎓 I'm a Mechanical Engineering student at BME (Budapest), originally from Jordan.  
+I enjoy working at the intersection of **mechanical design, automation, control systems, robotics, and computational engineering**.
 
 ## 🔧 What I Do
-- Build technical projects that blend engineering with code  
-- Design and simulate systems: PID controllers, thermal processes, fuel cells, and more  
-- Apply Python for automation, analysis, and prototyping  
-- Learning PLCs, SCADA, and industrial protocols
+- Design and simulate **mechanical systems** (CAD, FEA, CFD)  
+- Develop and test **control systems**: PID, state-space, nonlinear models  
+- Build **automation and robotics projects** with Python, MATLAB, and embedded platforms (Raspberry Pi, microcontrollers)  
+- Model and optimize **thermal–fluid processes** (boilers, pumps, fuel cells, HVAC systems)  
+- Explore **software engineering for engineers**: simulation apps, UI tools, and web apps  
 
-## 🧠 Focus
-- Industrial automation & control engineering  
-- AI integration in manufacturing systems  
+## 🧠 Areas of Focus
+- Mechanical & thermal–fluid systems  
+- Control, robotics, and mechatronics  
+- Industrial automation, PLCs, and smart manufacturing  
+- Computational tools (Python, MATLAB/Simulink, Ansys, SolidWorks, OpenFOAM)  
+- Open-source projects and cross-disciplinary engineering applications  
 
 ## 🌱 Always Learning
-- Siemens TIA Portal, Ladder Logic  
-- Python for control, simulation, and data handling  
-- Open-source tools, Git, and software documentation best practices
+- Advanced CFD and multiphysics simulations  
+- PLC programming (TIA Portal, Ladder Logic) and SCADA systems  
+- AI/ML for optimization and smart control  
+- Best practices in software development, documentation, and collaboration  
 
 ## 📍 Location
-Based in Budapest 🇭🇺 | From Jordan 🇯🇴
+Based in Budapest 🇭🇺 | From Jordan 🇯🇴  
 
 ---
 
-📫 Reach out or follow my work — more projects coming soon!
+📫 Feel free to connect, explore my repos, or follow along — more projects across engineering and automation are on the way!
+

@@ -1,32 +1,39 @@
-# 👋 Hi, I'm Saif
+# Saif Aqel
 
-🎓 I'm a Mechanical Engineering student at BME (Budapest), originally from Jordan.  
-I enjoy working at the intersection of **mechanical design, automation, control systems, robotics, and computational engineering**.
+Mechanical Engineer | HVAC | Thermal Systems | Design Optimization
 
-## 🔧 What I Do
-- Design and simulate **mechanical systems** (CAD, FEA, CFD)  
-- Develop and test **control systems**: PID, state-space, nonlinear models  
-- Build **automation and robotics projects** with Python, MATLAB, and embedded platforms (Raspberry Pi, microcontrollers)  
-- Model and optimize **thermal–fluid processes** (boilers, pumps, fuel cells, HVAC systems)  
-- Explore **software engineering for engineers**: simulation apps, UI tools, and web apps  
-
-## 🧠 Areas of Focus
-- Mechanical & thermal–fluid systems  
-- Control, robotics, and mechatronics  
-- Industrial automation, PLCs, and smart manufacturing  
-- Computational tools (Python, MATLAB/Simulink, Ansys, SolidWorks, OpenFOAM)  
-- Open-source projects and cross-disciplinary engineering applications  
-
-## 🌱 Always Learning
-- Advanced CFD and multiphysics simulations  
-- PLC programming (TIA Portal, Ladder Logic) and SCADA systems  
-- AI/ML for optimization and smart control  
-- Best practices in software development, documentation, and collaboration  
-
-## 📍 Location
-Based in Budapest 🇭🇺 | From Jordan 🇯🇴  
+Budapest, Hungary  
+saifaqel3@gmail.com  
+LinkedIn: https://www.linkedin.com/in/saif-aldain-aqel-665150327  
+GitHub: https://github.com/saifaqel  
 
 ---
 
-📫 Feel free to connect, explore my repos, or follow along — more projects across engineering and automation are on the way!
+## About
+Mechanical Engineering student at the Budapest University of Technology and Economics.  
+Focused on HVAC systems, thermal–fluid modeling, and mechanical design optimization.
 
+---
+
+## Skills
+Python | MATLAB | Simulink | ANSYS | SolidWorks | Inventor | AutoCAD | Git
+
+---
+
+## Projects
+- **Industrial Boiler Modeling:** Simulated 10–20 MW shell boiler; optimized energy balance.  
+- **Hydrogen Fuel Cell System:** Developed PID-controlled heating and cooling loops.  
+- **Centrifugal Fan Design:** Designed and verified high-efficiency fan drive system.  
+
+---
+
+## Experience
+**HVAC Design Intern – Karmi Engineering Consultants (2024)**  
+Performed load calculations, VRF design, and ASHRAE 62.1 compliance.  
+
+**Pump Design Intern – Arar & Abdullah Trading Co. (2023)**  
+Sized and commissioned centrifugal pumps; verified duty points and NPSH margins.  
+
+---
+
+"Engineering through precision and practicality."

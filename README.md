@@ -22,7 +22,7 @@ Python | MATLAB | Simulink | ANSYS | SolidWorks | Inventor | AutoCAD | Git
 
 ## Projects
 - **Industrial Boiler Modeling:** Simulated 10–20 MW shell boiler; optimized energy balance.  https://github.com/SaifAqel/Boiler_Model
-- **Hydrogen Fuel Cell System:** Developed PID-controlled heating and cooling loops.  
+- **Hydrogen Fuel Cell System:** Developed PID-controlled heating and cooling loops.  https://github.com/SaifAqel/PEMFC_Support_System
 - **Centrifugal Fan Design:** Designed and verified high-efficiency fan drive system.  
 
 ---

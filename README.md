@@ -10,8 +10,8 @@ GitHub: https://github.com/saifaqel
 ---
 
 ## About
-Mechanical Engineering student at the Budapest University of Technology and Economics.  
-Focused on HVAC systems, thermal–fluid modeling, and mechanical design optimization.
+Mechanical Engineering Master's student at RUHR Bochum University.  
+Focused on energy systems, HVAC systems, thermal–fluid modeling, and mechanical design optimization.
 
 ---
 

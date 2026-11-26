@@ -2,7 +2,7 @@
 
 Mechanical Engineer | HVAC | Thermal Systems | Design Optimization
 
-Budapest, Hungary  
+Bochum, Germany
 saifaqel3@gmail.com  
 LinkedIn: https://www.linkedin.com/in/saif-aldain-aqel-665150327  
 GitHub: https://github.com/saifaqel  
